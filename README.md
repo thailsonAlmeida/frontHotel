@@ -45,7 +45,7 @@ Caso queira clonar o repositório ou utilizar em algum projeto pessoal, por favo
 
 Ficarei muito grato! :D
 
-## Contato
+## Creditos
 
 E-mail: carlos.contato00@gmail.com
 
